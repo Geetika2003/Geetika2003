@@ -9,7 +9,7 @@ Undergraduate **B.Tech in Artificial Intelligence** with a passion for AI, machi
 - Exploring **NLP** for text analysis and chatbots  
 
 ### 💡 Skills & Tech
-- **Languages**: C, Python, C++, JavaScript  
+- **Languages**: C, Python, C++, JavaScript, React.js, Vue.js 
 - **AI/ML**: TensorFlow, Keras, PyTorch, Scikit-Learn  
 - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Web**: HTML, CSS, JavaScript, React.js  
